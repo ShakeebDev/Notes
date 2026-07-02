@@ -4,12 +4,7 @@
 
 **تطبيق بسيط وفعّال لتدوين الملاحظات وتنظيم الأفكار بسهولة وأمان**
 
-*A simple and powerful notes app to organize your thoughts with ease and security*
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/Jamaljmeel/Notes)
-[![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)](https://github.com/Jamaljmeel/Notes)
-[![Flutter](https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
 
