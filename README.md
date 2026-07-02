@@ -84,26 +84,7 @@ The app was built for daily use — whether for studying, work, or personal orga
 
 
 </div>
-
----
-
-## 🚀 كيفية التثبيت | 
-# استنساخ المستودع | Clone the repository
-git clone https://github.com/Jamaljmeel/Notes.git
-
-# الانتقال إلى المجلد | Navigate to folder
-cd Notes
-
-# تثبيت الاعتماديات | Install dependencies
-flutter pub get
-
-# تشغيل التطبيق | Run the app
-flutter run
-```
-
----
-
-## 🛠️ التقنيات المستخدمة | Tech Stack
+| Tech Stack
 
 - **Flutter** — إطار عمل التطبيق | App Framework
 - **Dart** — لغة البرمجة | Programming Language
