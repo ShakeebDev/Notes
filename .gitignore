@@ -1,0 +1,13 @@
+# Git ignore file for Flutter Notes App
+
+# Build outputs
+app-release.aab
+
+# Doc files
+ملف.docx
+docx_content.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
