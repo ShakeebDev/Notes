@@ -81,25 +81,13 @@ The app was built for daily use — whether for studying, work, or personal orga
 ### الإعدادات | Settings
 <img src="screenshots/7_settings.jpg" width="220" alt="Settings"/>
 
----
 
-### حول التطبيق | About App
-<img src="screenshots/8_about.jpg" width="220" alt="About"/>
 
 </div>
 
 ---
 
-## 🚀 كيفية التثبيت | Installation
-
-### Android APK
-يمكنك تنزيل آخر إصدار من قسم [Releases](https://github.com/Jamaljmeel/Notes/releases).
-
-You can download the latest release from the [Releases](https://github.com/Jamaljmeel/Notes/releases) section.
-
-### بناء من المصدر | Build from Source
-
-```bash
+## 🚀 كيفية التثبيت | 
 # استنساخ المستودع | Clone the repository
 git clone https://github.com/Jamaljmeel/Notes.git
 
@@ -125,18 +113,6 @@ flutter run
 
 ## 👨‍💻 المطور | Developer
 
-<div align="center">
-
-**جمال — Jamal**
-
-*تم تطوير هذا التطبيق بشغف وعناية لتقديم أفضل تجربة لإدارة ملاحظاتك*  
-*This app was developed with passion and care to provide the best note management experience*
-
-© 2026 جميع الحقوق محفوظة | All Rights Reserved
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jamaljmeel-181717?style=for-the-badge&logo=github)](https://github.com/Jamaljmeel)
-
-</div>
 
 ---
 
